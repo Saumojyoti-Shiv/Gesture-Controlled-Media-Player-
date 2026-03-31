@@ -1,7 +1,3 @@
-Here is a clean, well-structured `README.md` file tailored to your code. 
-
-***
-
 # YouTube Gesture Controller 🤚🎥
 
 A Python-based computer vision project that lets you control YouTube video playback and Windows system volume using hand gestures. It uses **MediaPipe** for real-time hand tracking, **OpenCV** for webcam feed processing, and **Selenium** to interact with the browser.
